@@ -1,13 +1,10 @@
 #include <stdio.h>
 /**
  *
- *  * main - Entry point
+ *main - prints text
  *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+ *Return: Always 0 (Success)
+ */
 
 int main (void)
 {
