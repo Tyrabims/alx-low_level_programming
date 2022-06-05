@@ -17,9 +17,10 @@ int main(void)
 	for (c = 'A'; c <= 'Z'; c++)
 	{
 		putchar(c);
-	{
+	}
 
-		putchar('\n');
+	putchar('\n');
 
-		return (0);
+	return (0)
 }
+
